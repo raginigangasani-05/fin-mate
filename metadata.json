@@ -1,0 +1,6 @@
+{
+  "name": "FinMate - AI Financial Decision Engine",
+  "description": "FinMate is an intelligent personal financial decision platform powered by Fin AI to help you understand your money and make smarter financial decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
